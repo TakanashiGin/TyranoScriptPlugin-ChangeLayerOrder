@@ -1,2 +1,2 @@
-[loadjs storage="plugin/change_layer_order/init.js"]
+[loadjs storage="plugin/change_layer_order/init.min.js"]
 [return]
